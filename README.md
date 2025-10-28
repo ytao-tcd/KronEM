@@ -52,7 +52,7 @@ KronEM is an Expectation-Maximization (EM) algorithm used to estimate the initia
 
 2.  **Install Python dependencies:**
     ```bash
-    pip install -r requirements.txt
+    conda env create -f environment.yml
     ```
 
 3.  **Run an experiment:**
