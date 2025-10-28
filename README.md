@@ -62,14 +62,6 @@ KronEM is an Expectation-Maximization (EM) algorithm used to estimate the initia
     ```
     Please refer to the source code for detailed arguments and configuration options.
 
-## Repository Structure
-
-```
-.
-├── src/          # Python source code for experiments
-└── README.md
-```
-
 ## Contribution
 
 As a co-second author of the publication, I created this repository to ensure the reproducibility and transparency of our baseline comparisons. Contributions and suggestions are welcome. Please open an issue or submit a pull request.
