@@ -57,7 +57,7 @@ KronEM is an Expectation-Maximization (EM) algorithm used to estimate the initia
 
 3.  **Run an experiment:**
     ```bash
-    python src/KronEM.py
+    python KronEM.py
     ```
     Please refer to the source code for detailed arguments and configuration options.
 
