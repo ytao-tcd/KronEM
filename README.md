@@ -51,7 +51,6 @@ KronEM is an Expectation-Maximization (EM) algorithm used to estimate the initia
     ```
 
 2.  **Install Python dependencies:**
-    *(Create a `requirements.txt` file if needed, listing packages like `numpy`, `pandas`, `matplotlib`, etc.)*
     ```bash
     pip install -r requirements.txt
     ```
