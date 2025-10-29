@@ -44,15 +44,11 @@ KronEM is an Expectation-Maximization (EM) algorithm used to estimate the initia
 
 ### Installation and Usage
 
-1.  **Clone the repository:**
+1.  **Environment Setup:**
     ```bash
-    git clone https://github.com/ytao-tcd/KronEM.git
     cd KronEM
-    ```
-
-2.  **Install Python dependencies:**
-    ```bash
     conda env create -f environment.yml
+    conda activate KronEM
     ```
 
 3.  **Run an experiment:**
